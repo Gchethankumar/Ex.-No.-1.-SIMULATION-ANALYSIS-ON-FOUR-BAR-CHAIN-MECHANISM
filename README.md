@@ -53,10 +53,11 @@
 
 
 ## Output:
-
-
-### Name:
-### Register Number: 
+```
+ Name: G.Chethan kumar
+Register Number: 212222240022
+```
+![img1](https://github.com/Gchethankumar/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118348224/b4a73137-7a8b-40a5-80d6-ad2d5ebc6769)
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
